@@ -31,6 +31,13 @@ Ruxy's official Discord bot.
 | ------- | ----------------------------- |
 | `/repo` | Get links to Rux repositories |
 
+### Moderation
+
+| Command       | Description                           |
+| ------------- | ------------------------------------- |
+| `/blacklist`  | Blacklists a user from using the bot  |
+| `/unblacklist`| Unblacklists a user                   |
+
 ### Owner
 
 | Command     | Description                |

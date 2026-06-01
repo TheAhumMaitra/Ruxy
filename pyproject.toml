@@ -1,0 +1,10 @@
+[project]
+name = "ruxy"
+version = "0.1.0"
+description = "Official bot for Rux Lang Discord server"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "discord-py>=2.7.1",
+    "pyjokes>=0.8.3",
+]
